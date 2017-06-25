@@ -1,15 +1,5 @@
 package leetcode;
 
-/**
- * Definition for a binary tree node.
- */
-
-class TreeNode {
-	     int val;
-	     TreeNode left;
-	     TreeNode right;
-	     TreeNode(int x) { val = x; }
- }
 public class Find_Bottom_Left_Tree_Value_513 {
 
 	int[] array=new int[2];//array[0]填当前最下最左元素，array[1]填该元素的层次
