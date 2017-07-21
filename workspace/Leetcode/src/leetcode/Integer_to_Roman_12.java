@@ -12,7 +12,7 @@ public class Integer_to_Roman_12 {
 	    int shi=(num%100)/10;//十位上的数
 	    int ge=num%10;//个位上的数
 	    String result=M[qian]+C[bai]+X[shi]+I[ge];
-		return result;
+		return result;		
 	}
 
 	public static void main(String[] args) {
