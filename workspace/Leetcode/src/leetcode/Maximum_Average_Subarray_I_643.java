@@ -26,5 +26,4 @@ public class Maximum_Average_Subarray_I_643 {
 		int[] nums=new int[]{1,12,-5,-6,50,3};
 		System.out.println(m.findMaxAverage(nums, 4));
 	}
-
 }
