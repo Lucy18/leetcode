@@ -2,4 +2,4 @@
 out/
 .metadata/
 .recommenders/
-workspace/.metadata/
+workspace/.metadata/*
