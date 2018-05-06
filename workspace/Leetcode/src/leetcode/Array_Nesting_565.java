@@ -21,7 +21,8 @@ public class Array_Nesting_565 {
 		// TODO Auto-generated method stub
 		Array_Nesting_565 a=new Array_Nesting_565();
 		int[] b=new int[]{5,4,0,3,1,6,2};
-		System.out.println(a.arrayNesting(b));
+		int[] b2=new int[]{5,4,0,3,1,6,4};
+		System.out.println(a.arrayNesting(b2));
 	}
 
 }

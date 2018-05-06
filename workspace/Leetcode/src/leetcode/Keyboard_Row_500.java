@@ -3,6 +3,7 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+//leetcode 646 Maximum_Length_of_Pair_Chain_646:比较comparator
 public class Keyboard_Row_500 {
 	char[][] keywords=new char[][]{{'q','w','e','r','t','y','u','i','o','p'},
 		{'a','s','d','f','g','h','j','k','l'},
